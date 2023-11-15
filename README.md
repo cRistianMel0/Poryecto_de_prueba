@@ -1,2 +1,2 @@
-# Poryecto_de_prueba
+# Proyecto_de_prueba
 Este es un proyecto de prueba
